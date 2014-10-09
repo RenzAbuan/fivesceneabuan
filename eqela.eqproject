@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# fivesceneAbuan
+#
+
+projectname: fivesceneAbuan
+vendorid: com.mycompany
+mainmodule: com.mycompany.fivesceneabuan
